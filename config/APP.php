@@ -1,6 +1,6 @@
-<?php
+a<?php
 //nombre de la URL
-const SERVERURL="https://reservamesas2023-dev-txxh.3.us-1.fl0.io/";
+const SERVERURL="https://reservamesas2023-dev-txxh.3.us-1.fl0.io/mesas_reservas/";
 //nombre del sistema
 const COMPANY="SISTEMAS RESERVAS";
 //Zona horaria
