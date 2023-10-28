@@ -15,19 +15,19 @@
         <div class="container__menu">
             <div class="logo_index">
 
-                <img src="/mesas_reservas/vistas/images/logo3.png" alt="">
+                <img src="<?php echo SERVERURL; ?>vistas/images/logo3.png" alt="">
             </div>
             <div class="menu">
                 <i class="fas fa-bars" id="btn_menu"></i>
                 <div id="back_menu"></div>
                 <nav id="nav">
-                    <img src="/mesas_reservas/vistas/images/logo3.png" alt="">
+                    <img src="<?php echo SERVERURL; ?>vistas/images/logo3.png" alt="">
                     <ul>
 
                         <li><a href="<?php echo SERVERURL; ?>">Inicio</a></li>
-                        <li><a href="registro" id="selected">Registro</a></li>
-                        <li><a href="login">Login</a></li>
-                        <li><a href="reservas">Reservas</a></li>
+                        <li><a href="<?php echo SERVERURL; ?>registro" id="selected">Registro</a></li>
+                        <li><a href="<?php echo SERVERURL; ?>login">Login</a></li>
+                        <li><a href="<?php echo SERVERURL; ?>reservas">Reservas</a></li>
                     </ul>
                 </nav>
             </div>
@@ -120,7 +120,7 @@
 
     </main>
 
-    <script src="/mesas_reservas/vistas/js/script.js"></script>
+    <script src="<?php echo SERVERURL; ?>vistas/js/script.js"></script>
 
     <!--  footer -->
    <!--  footer -->
