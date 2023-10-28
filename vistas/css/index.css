@@ -89,13 +89,12 @@ header{
 /*COVER*/
 
 
-
 .container__cover{
     
     width: 100%;
     height: auto;
     
-    background-image: url('../vistas/assets/img/index3.jpg');
+    background-image: url('./vistas/assets/img/index3.jpg');
     background-position: left;
     
     padding: 40px;
