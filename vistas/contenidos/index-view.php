@@ -15,13 +15,13 @@
         <div class="container__menu">
             <div class="logo_index">
             
-            <img src="/mesas_reservas/vistas/images/logo3.png" alt="">
+            <img src="<?php echo SERVERURL; ?>/mesas_reservas/vistas/images/logo3.png" alt="">
             </div>
             <div class="menu">
                 <i class="fas fa-bars" id="btn_menu"></i>
                 <div id="back_menu"></div>
                 <nav id="nav">
-                    <img src="/mesas_reservas/vistas/images/logo3.png" alt="">
+                    <img src="<?php echo SERVERURL; ?>/mesas_reservas/vistas/images/logo3.png" alt="">
                     <ul>
 
                         <li><a href="<?php echo SERVERURL; ?>" id="selected">Inicio</a></li>
@@ -41,7 +41,7 @@
             <div class="cover">
                 <div class="text">
                 <h1 style="background-color:#CA9F2D;" >RESTO-BAR PLATITA</h1>
-                    <img src="/mesas_reservas/vistas/images/chef.png" alt="chef">
+                    <img src="<?php echo SERVERURL; ?>/mesas_reservas/vistas/images/chef.png" alt="chef">
                     
 
                     <p>
