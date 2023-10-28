@@ -25,7 +25,7 @@
                     <ul>
 
                         <li><a href="<?php echo SERVERURL; ?>" id="selected">Inicio</a></li>
-                    <li><a href="<?php echo SERVERURL; ?>/contenidos/registro">Registro</a></li>
+                    <li><a href="<?php echo SERVERURL; ?>registro">Registro</a></li>
                         <li><a href="<?php echo SERVERURL; ?>login">Login</a></li>
                         <li><a href="<?php echo SERVERURL; ?>reservas">Reservas</a></li>
                     </ul>
